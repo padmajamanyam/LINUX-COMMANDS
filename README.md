@@ -1,4 +1,4 @@
 # LINUX-COMMANDS
 shell scripting topics
 ------------------
-devops on aws 
+ls is a command to list the directories 
